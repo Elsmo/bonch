@@ -1,0 +1,23 @@
+body{
+    background-color: #304352;
+}
+
+.errorlist{
+    color: red;
+}
+
+.card-body{
+    background-color: #d7d2cc;
+}
+
+.card-header{
+    background-color: #d7d2cc;
+}
+
+.card-footer{
+    color: #d7d2cc;
+}
+
+.list-group-item list-group-item-action{
+    background-color: #d7d2cc;
+}
